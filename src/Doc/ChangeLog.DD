@@ -1,4 +1,9 @@
 $WW,1$$FG,5$$TX+CX,"ChangeLog"$$FG$
+$IV,1$----02/07/21 10:33:34----$IV,0$
+* Thickened and modified $LK,"FontStd",A="FI:/Kernel/FontStd.CC"$ for readability: $FG,4$l$FG$, $FG,4$i$FG$, $FG,4$1$FG$.
+* $LK,"R",A="MN:R"$("MSRGet", "$LK,"MSRRead",A="MN:MSRRead"$");
+* $LK,"R",A="MN:R"$("MSRSet", "$LK,"MSRWrite",A="MN:MSRWrite"$");
+
 $IV,1$----01/28/21 19:08:16----$IV,0$
 * Added $LK,"MSRGet",A="MN:MSRGet"$().
 
